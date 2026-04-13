@@ -62,5 +62,5 @@ O projeto ajuda a entender o comportamento de vendas e apoiar decisões estraté
 
 ## 👨‍💻 Autor
 
-Juliano Mendes  
-Cientista de Dados | BI | Python
+Juliano Mendes
+Analista de Dados | BI | Python
